@@ -9,3 +9,5 @@ train.py - Model training.
 test.py - Model testing.
 
 final_test.py - Calculates the final probabilities(cancer/normal, luad/lusc) using both the pipelines.
+
+An example of the dataset tree is also included.
